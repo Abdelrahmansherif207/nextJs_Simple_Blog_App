@@ -8,6 +8,7 @@ A clean, modern blog application built with Next.js and Tailwind CSS.
 
 - 📝 Blog post listings by category  
 - 🔍 Individual post pages  
+- 🔄 Loading State using Loader js UI
 - ✨ Modern UI with Tailwind CSS  
 - ⚡ Fast page transitions  
 
