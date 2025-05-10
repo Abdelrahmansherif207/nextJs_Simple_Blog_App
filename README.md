@@ -20,8 +20,12 @@ A clean, modern blog application built with Next.js and Tailwind CSS.
 </div>
 
 <div align="center">
-  <img src="screenshots/categories.png" alt="Categories Page" width="800"/>
-  <p><em>List of available post categories</em></p>
+  <img src="screenshots/users.png" alt="Categories Page" width="800"/>
+  <p><em>List of available users </em></p>
+</div>
+<div align="center">
+  <img src="screenshots/profile.png" alt="Categories Page" width="800"/>
+  <p><em>User Profile with his posts</em></p>
 </div>
 
 <div align="center">
