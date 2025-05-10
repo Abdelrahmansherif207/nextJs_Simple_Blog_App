@@ -30,10 +30,10 @@ export default function Home() {
                         Browse Posts
                     </Link>
                     <Link
-                        href="/categories"
+                        href="/users"
                         className="px-6 py-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
                     >
-                        View Categories
+                        View Users
                     </Link>
                 </div>
             </main>

@@ -21,10 +21,10 @@ export default function RootLayout({ children }) {
                                 Home
                             </Link>
                             <Link
-                                href="/categories"
+                                href="/users"
                                 className="text-black hover:text-gray-600 font-medium"
                             >
-                                Categories
+                                Users
                             </Link>
                             <Link
                                 href="/posts"
